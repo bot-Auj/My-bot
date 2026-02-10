@@ -44,4 +44,4 @@ async def promo(ctx):
     await ctx.send(content)
 
 keep_alive()
-bot.run('MTQ2NTMzMzg5MTk3MDc2MDkwMw.Gfn-rb.kBGbdhjjT_WgfhKttQuddx9LVi3TCJSw8qb9W0')
+bot.run('MTQ2NTMzMzg5MTk3MDc2MDkwMwGl2kmH0scyz6A_iipqrmPTIv4ZgEps8jnXQHXxQOLIlo')
